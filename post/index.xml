@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on IVPG | Peking University</title>
+    <link>https://pku-ivp.github.io/post/</link>
+    <description>Recent content in Posts on IVPG | Peking University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Intelligent Video &amp; Perception Group, Peking University, 2020 </copyright>
+    <lastBuildDate>Wed, 07 Oct 2020 15:50:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://pku-ivp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Team Building Activity</title>
+      <link>https://pku-ivp.github.io/post/2020-10-07/</link>
+      <pubDate>Wed, 07 Oct 2020 15:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-10-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Fund</title>
+      <link>https://pku-ivp.github.io/post/2020-07-31/</link>
+      <pubDate>Fri, 31 Jul 2020 15:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-07-31/</guid>
+      <description>View the detail: https://ur.tencent.com/article/296</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2020-07-14/</link>
+      <pubDate>Tue, 14 Jul 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-07-14/</guid>
+      <description>A paper authored by Guibiao Liao, Wei Gao, et.al. is accepted to ACM Multimedia 2020
+View the detail: MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</description>
+    </item>
+    
+    <item>
+      <title>New Research Activity</title>
+      <link>https://pku-ivp.github.io/post/2020-07-10/</link>
+      <pubDate>Fri, 10 Jul 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-07-10/</guid>
+      <description>Dr. Wei Gao has been appointed as Associate Editor for Electronics Letters (Internationally renowned peer-reviewed rapid-communication journal).</description>
+    </item>
+    
+    <item>
+      <title>New Research Activity</title>
+      <link>https://pku-ivp.github.io/post/2020-06-20/</link>
+      <pubDate>Sat, 20 Jun 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-06-20/</guid>
+      <description>Dr. Wei Gao has been appointed as Associate Editor for IET Image Processing (CCF recommended journal).</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2020-05-14/</link>
+      <pubDate>Thu, 14 May 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-05-14/</guid>
+      <description>A paper authored by Wei Gao, Lvfang Tao, Linjie Zhou, Dinghao Yang, Xiaoyu Zhang and Zixuan Guo is accepted to CVPR 2020 Workshops.
+View the detail: Low-rate Image Compression with Super-Resolution Learning</description>
+    </item>
+    
+  </channel>
+</rss>

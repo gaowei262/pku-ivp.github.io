@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IVPG | Peking University</title>
+    <link>https://pku-ivp.github.io/</link>
+    <description>Recent content on IVPG | Peking University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Intelligent Video &amp; Perception Group, Peking University, 2020 </copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 16:37:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://pku-ivp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</title>
+      <link>https://pku-ivp.github.io/publication/mmnet/</link>
+      <pubDate>Mon, 12 Oct 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/mmnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Building Activity</title>
+      <link>https://pku-ivp.github.io/post/2020-10-07/</link>
+      <pubDate>Wed, 07 Oct 2020 15:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-10-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Fund</title>
+      <link>https://pku-ivp.github.io/post/2020-07-31/</link>
+      <pubDate>Fri, 31 Jul 2020 15:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-07-31/</guid>
+      <description>View the detail: https://ur.tencent.com/article/296</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2020-07-14/</link>
+      <pubDate>Tue, 14 Jul 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-07-14/</guid>
+      <description>A paper authored by Guibiao Liao, Wei Gao, et.al. is accepted to ACM Multimedia 2020
+View the detail: MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</description>
+    </item>
+    
+    <item>
+      <title>New Research Activity</title>
+      <link>https://pku-ivp.github.io/post/2020-07-10/</link>
+      <pubDate>Fri, 10 Jul 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-07-10/</guid>
+      <description>Dr. Wei Gao has been appointed as Associate Editor for Electronics Letters (Internationally renowned peer-reviewed rapid-communication journal).</description>
+    </item>
+    
+    <item>
+      <title>New Research Activity</title>
+      <link>https://pku-ivp.github.io/post/2020-06-20/</link>
+      <pubDate>Sat, 20 Jun 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-06-20/</guid>
+      <description>Dr. Wei Gao has been appointed as Associate Editor for IET Image Processing (CCF recommended journal).</description>
+    </item>
+    
+    <item>
+      <title>Low-rate Image Compression with Super-Resolution Learning</title>
+      <link>https://pku-ivp.github.io/publication/low-rate-image-compression/</link>
+      <pubDate>Fri, 12 Jun 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/low-rate-image-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2020-05-14/</link>
+      <pubDate>Thu, 14 May 2020 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2020-05-14/</guid>
+      <description>A paper authored by Wei Gao, Lvfang Tao, Linjie Zhou, Dinghao Yang, Xiaoyu Zhang and Zixuan Guo is accepted to CVPR 2020 Workshops.
+View the detail: Low-rate Image Compression with Super-Resolution Learning</description>
+    </item>
+    
+    <item>
+      <title>Blind Image Quality Measurement by Exploiting High Order Statistics with Deep Dictionary Encoding Network</title>
+      <link>https://pku-ivp.github.io/publication/blind-image-quality-measurement/</link>
+      <pubDate>Sun, 12 Apr 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/blind-image-quality-measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Objective Optimization Perspective for Joint Consideration of Video Coding Quality</title>
+      <link>https://pku-ivp.github.io/publication/multi-objective-optimization-perspective/</link>
+      <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/multi-objective-optimization-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Risk-Aware Pairwise Rank Learning Approach for Visual Discomfort Prediction of Stereoscopic 3D Images</title>
+      <link>https://pku-ivp.github.io/publication/risk-aware-airwise-rank-learning/</link>
+      <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/risk-aware-airwise-rank-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSIM-Based Global Optimization for CTU-Level Rate Control in HEVC</title>
+      <link>https://pku-ivp.github.io/publication/ssim-based-global-optimization/</link>
+      <pubDate>Mon, 12 Aug 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/ssim-based-global-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified No-reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images</title>
+      <link>https://pku-ivp.github.io/publication/unified-no-reference-quality-assessment/</link>
+      <pubDate>Fri, 12 Apr 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/unified-no-reference-quality-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Rate Control for Rate-Distortion Optimization in HEVC Based on Simplified Effective Initial QP Learning</title>
+      <link>https://pku-ivp.github.io/publication/data-driven-rate-control/</link>
+      <pubDate>Tue, 12 Mar 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/data-driven-rate-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Bayesian Learning Based Kernel Poisson Regression</title>
+      <link>https://pku-ivp.github.io/publication/sparse-bayesian-learning/</link>
+      <pubDate>Sat, 12 Jan 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/sparse-bayesian-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonnegative Matrix Factorization with Mixed Hypergraph Regularization for Community Detection</title>
+      <link>https://pku-ivp.github.io/publication/nonnegative-matrix-factorization/</link>
+      <pubDate>Thu, 12 Apr 2018 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/nonnegative-matrix-factorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Machine Learning and Game Theory for Rate Control in High Efficiency Video Coding</title>
+      <link>https://pku-ivp.github.io/publication/joint-machine-learning/</link>
+      <pubDate>Tue, 12 Dec 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/joint-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Relevance Vector Machine</title>
+      <link>https://pku-ivp.github.io/publication/generalized-relevance-vector-machine/</link>
+      <pubDate>Tue, 12 Sep 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/generalized-relevance-vector-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Phase Congruency Based Patch Evaluator for Complexity Reduction in Multi-dictionary Based Single-image Superresolution</title>
+      <link>https://pku-ivp.github.io/publication/phase-congruency-based-patch-evaluator/</link>
+      <pubDate>Sat, 12 Nov 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/phase-congruency-based-patch-evaluator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Congruency Based Edge Saliency Detection and Rate Control for Perceptual Image and Video Coding</title>
+      <link>https://pku-ivp.github.io/publication/phase-congruency-based-edge-saliency-detection/</link>
+      <pubDate>Wed, 12 Oct 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/phase-congruency-based-edge-saliency-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-level Optimization of Block Compressive Sensing with Perceptually Nonlocal Similarity</title>
+      <link>https://pku-ivp.github.io/publication/bi-level-optimization/</link>
+      <pubDate>Mon, 12 Sep 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/bi-level-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale Phase Congruency Analysis for Image Edge Visual Saliency Detection</title>
+      <link>https://pku-ivp.github.io/publication/multiscale-phase-congruency-analysis/</link>
+      <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/multiscale-phase-congruency-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinghao Yang, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/yangdinghao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/yangdinghao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fangyu Shen, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/shenfangyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/shenfangyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guibiao Liao, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/liaoguibiao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/liaoguibiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hang Yuan, PhD Student</title>
+      <link>https://pku-ivp.github.io/member/yuanhang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/yuanhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huiming Zheng, Visting Student</title>
+      <link>https://pku-ivp.github.io/member/zhenghuiming/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/zhenghuiming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianing Chen, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/chenjianing/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/chenjianing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linjie Zhou, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/zhoulinjie/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/zhoulinjie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lvfang Tao, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/taolvfang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/taolvfang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Songlin Fan, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/fansonglin/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/fansonglin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wang Liu, Phd Student</title>
+      <link>https://pku-ivp.github.io/member/liuwang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/liuwang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Gao, Assistant Professor</title>
+      <link>https://pku-ivp.github.io/member/gaowei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/gaowei/</guid>
+      <description>Dr. Wei Gao is currently an Assistant Professor (Ph.D. Supervisor) with the School of Electronic and Computer Engineering, Peking University (PKU), Shenzhen, China. He received the Ph.D. degree in Computer Science with the Department of Computer Science, City University of Hong Kong (CityU), Kowloon, Hong Kong. He was a Camera ISP Engineer with OmniVision Technologies (OVTI), Shanghai, China. Before that, he obtained the Master degree in Pattern Recognition and Intelligent Systems with the Institute for Pattern Recognition and Artificial Intelligence (National Key Laboratory of Science and Technology on Multi-spectral Information Processing), Huazhong University of Science and Technology (HUST), Wuhan, China.</description>
+    </item>
+    
+    <item>
+      <title>Xiaoyu Zhang, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/zhangxiaoyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/zhangxiaoyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xijing Lu, Visting Student</title>
+      <link>https://pku-ivp.github.io/member/luxijing/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/luxijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Guo, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/guoyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/guoyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuyang Wu, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/wuyuyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/wuyuyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zetao Yang, Visting Student</title>
+      <link>https://pku-ivp.github.io/member/yangzetao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/yangzetao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhanyuan Cai, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/caizhanyuan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/caizhanyuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiyang Qi, Visting Student</title>
+      <link>https://pku-ivp.github.io/member/qizhiyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/qizhiyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zixuan Guo, MPhil Student</title>
+      <link>https://pku-ivp.github.io/member/guozixuan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/member/guozixuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSIM-Based Game Theory Approach for Rate-Distortion Optimized Intra Frame CTU-Level Bit Allocation</title>
+      <link>https://pku-ivp.github.io/publication/ssim-based-game-theory/</link>
+      <pubDate>Sun, 12 Jun 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/ssim-based-game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCT Coefficient Distribution Modeling and Quality Dependency Analysis Based Frame-Level Bit Allocation for HEVC</title>
+      <link>https://pku-ivp.github.io/publication/dct-coefficient-distribution/</link>
+      <pubDate>Tue, 12 Jan 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/dct-coefficient-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate Distortion Optimized Inter View Frame Level Bit Allocation Method for MV-HEVC</title>
+      <link>https://pku-ivp.github.io/publication/rate-distortion-optimized-inter-view/</link>
+      <pubDate>Sat, 12 Dec 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/rate-distortion-optimized-inter-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth View Quality Oriented Bit Allocation Optimization for 3D Video Coding</title>
+      <link>https://pku-ivp.github.io/publication/smooth-view-quality-oriented/</link>
+      <pubDate>Mon, 12 Oct 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/smooth-view-quality-oriented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity Reduction in Multi-dictionary Based Single-Image Superresolution Reconstruction via Phase Congruency</title>
+      <link>https://pku-ivp.github.io/publication/complexity-reduction-in-multi-dictionary/</link>
+      <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/complexity-reduction-in-multi-dictionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Congruency Analysis of Down-sampled and Blurring Images for Foreground Extraction</title>
+      <link>https://pku-ivp.github.io/publication/phase-congruency-analysis/</link>
+      <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/phase-congruency-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-cost Memory Data Scheduling Method for Reconfigurable FFT Bit-reversal Circuits</title>
+      <link>https://pku-ivp.github.io/publication/low-cost-memory/</link>
+      <pubDate>Thu, 12 Feb 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication/low-cost-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pku-ivp.github.io/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pku-ivp.github.io/approach/</guid>
+      <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
+Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.
+ Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum  Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pku-ivp.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pku-ivp.github.io/about/</guid>
+      <description>About IVP We are the Intelligent Video &amp;amp; Perception Group, from the School of Electronic and Computer Engineering, Peking University, Shenzhen, China.
+We are focusing on the research topics of Intelligent Video Coding, Image Processing &amp;amp; Computer Vision and Machine Learning &amp;amp; Deep Learning, including advanced algorithms and optimization models, and efficient implementations of practical Intelligent Systems.
+Intelligent Video Coding 2D/3D/Intelligent/Perceptual Video Coding Optimization, Immersive Media and Virtual Reality (Panorama/Light Field/Point Cloud), Multimedia Streaming and Communication</description>
+    </item>
+    
+    <item>
+      <title>Codes</title>
+      <link>https://pku-ivp.github.io/codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pku-ivp.github.io/codes/</guid>
+      <description>Codes Coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://pku-ivp.github.io/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pku-ivp.github.io/datasets/</guid>
+      <description>Datasets Coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Join Us</title>
+      <link>https://pku-ivp.github.io/joinus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pku-ivp.github.io/joinus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://pku-ivp.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pku-ivp.github.io/research/</guid>
+      <description>Modo est Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
+ Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus descendere, patriisque ieiunia.</description>
+    </item>
+    
+  </channel>
+</rss>
