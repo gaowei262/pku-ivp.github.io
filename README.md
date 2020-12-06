@@ -1,2 +1,2 @@
 # pku-ivp.github.io
-The academic website for the Intelligent Video Perception Group, Peking University
+The academic website for the Immersive Video Perception Group, Peking University
